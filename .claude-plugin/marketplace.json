@@ -1,0 +1,5 @@
+{
+  "name": "device-switcher",
+  "owner": { "name": "andykwsc" },
+  "plugins": [{ "name": "device-switcher", "source": "./" }]
+}

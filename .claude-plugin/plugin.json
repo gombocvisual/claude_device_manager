@@ -1,0 +1,6 @@
+{
+  "name": "device-switcher",
+  "version": "0.1.0",
+  "description": "A pane to switch which SSH device Claude reads and writes on",
+  "types": "./types/index.d.ts"
+}
