@@ -18,7 +18,7 @@ Each device needs SSH enabled and key-based login (no password prompt), because 
 At the prompt of a Claude Code terminal session:
 
 ```
-/plugin install device-switcher --marketplace andykwsc/claude_mod_device_manager
+/plugin install device-switcher --marketplace gombocvisual/claude_device_manager
 ```
 
 Answer `y` to add the marketplace, then pick the user scope.
@@ -26,9 +26,9 @@ Answer `y` to add the marketplace, then pick the user scope.
 From a shell:
 
 ```
-claude plugin install device-switcher --marketplace andykwsc/claude_mod_device_manager
+claude plugin install device-switcher --marketplace gombocvisual/claude_device_manager
 ```
 
-In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `andykwsc/claude_mod_device_manager`, then Add plugin.
+In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `gombocvisual/claude_device_manager`, then Add plugin.
 
 This repository is private: installing needs read access on GitHub and a git credential for github.com on that computer (an SSH key, or `gh auth login` then `gh auth setup-git`).
